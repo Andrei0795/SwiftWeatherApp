@@ -9,9 +9,9 @@ Credits for some icons go to icons8.com.
 
 ## Screens
 
-![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen1.png)
-![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen2.png)
-![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen3.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/SwiftWeatherApp/master/screen1.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/SwiftWeatherApp/master/screen2.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/SwiftWeatherApp/master/screen3.png)
 
 
 
