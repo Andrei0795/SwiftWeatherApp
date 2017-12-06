@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var statusImage: UIImageView!
 
-
+    @IBOutlet weak var infoButton: UIButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -85,6 +85,12 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+    }
+    
+    @IBAction func infoButtonTapped(sender: UIButton) {
+        let alert = UIAlertController(title: "Info about Weather App", message: "This is a simple app I have developed in a few hours using Open Weather Map API and Alamofire. Credits for some icons go to icons8.com. Feel free to use it and happy coding!", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
     }
 
 }

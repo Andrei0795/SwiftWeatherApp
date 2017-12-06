@@ -45,6 +45,9 @@
                                         <rect key="frame" x="225" y="81" width="21" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" image="info"/>
+                                        <connections>
+                                            <action selector="infoButtonTappedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FwW-Nd-7Xo"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" white="0.0" alpha="0.2068386884" colorSpace="calibratedWhite"/>
@@ -198,6 +201,7 @@
                         <outlet property="errorLabel" destination="tN3-1A-VK3" id="cQT-Vt-1TV"/>
                         <outlet property="errorView" destination="jZf-T9-9Zs" id="x7e-iz-0Jn"/>
                         <outlet property="humidityLabel" destination="Foc-RB-918" id="qIq-QO-M97"/>
+                        <outlet property="infoButton" destination="1hY-Ae-03O" id="ree-td-zim"/>
                         <outlet property="nameLabel" destination="2zA-9e-VUt" id="Dcl-Rd-unz"/>
                         <outlet property="pressureLabel" destination="MmI-ye-I0n" id="4qu-Ze-qPV"/>
                         <outlet property="statusImage" destination="m9D-kA-WJK" id="1lV-iV-aJj"/>
