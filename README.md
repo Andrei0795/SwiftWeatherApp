@@ -7,6 +7,13 @@ The API I used for weather is the Open Weather MAP API. The key for the API can 
 
 Credits for some icons go to icons8.com.
 
+## Screens
+
+![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen1.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen2.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/screen3.png)
+
+
 
 ## ToDo & Bugs
 
